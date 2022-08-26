@@ -1,0 +1,16 @@
+<!DOCTYPE hmtl>
+<html>
+        <head>
+            <meta charset="utf-8">
+            <title>Alexis Boivin</title> 
+        </head>
+        <body>
+           <header>
+            <h1>Alexis Boivin</h1>
+            <q>"Tout ce que nous devons décider, c'est que faire du temps qui nous est imparti."</q>
+            <p> Gandalf le gris</p>
+            <img src=avatar.jpg>
+           </header>
+        
+        </body>
+</html>
